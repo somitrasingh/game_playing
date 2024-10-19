@@ -128,7 +128,7 @@ def min_value(s, type, alpha, beta):
     return val, state
     
 
-
+v = 9
 
 
 red = 3
